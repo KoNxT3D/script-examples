@@ -3,7 +3,7 @@
 # KoNxT3D
 # https://eviltek.net/
 # chmod +x This File.
-# Use: ./Hping.sh
+# Use: ./variable.sh
 
 result="ping-results.txt"
 clear
