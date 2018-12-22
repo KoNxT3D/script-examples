@@ -18,7 +18,7 @@ if [ "$?" -eq 0 ]; then
 else
   printf "$light_red" "[❎ HOST DISCONNECTED ❎]"
 fi
-echo -e "💾 Results saved to Hping-results.txt\n";
+echo -e "💾 Results saved to ping-results.txt\n";
 echo "Ping Another?"
 select yn in "Yes" "No"; do
     case $yn in
