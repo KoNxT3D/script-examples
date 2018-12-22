@@ -1,4 +1,4 @@
-# script-examples
+# Script Examples & Stuff
 Script examples collection. bash, bat, vb, stuff
 
 <b>1:</b> Linux Ping And Traceroute Examples
