@@ -9,4 +9,7 @@ is a manually entered host name the other is menu based.
 preset.sh is the menu based bash script and comes with
 default host names.<br>
 With variable.sh, just enter a domain name; ie google.com.
-variable.sh outputs to a text file, preset.sh does not.
+variable.sh outputs to a text file, preset.sh does not.<br><br>
+
+<em>More@</em><br>
+https://eviltek.net/
