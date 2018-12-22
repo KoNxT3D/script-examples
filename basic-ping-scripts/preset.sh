@@ -3,7 +3,7 @@
 # KoNxT3D
 # https://eviltek.net/
 # chmod +x This File.
-# Use: ./Phosts.sh
+# Use: ./preset.sh
 # Max Hops -m 15
 # Set Hosts
 host1="google.com"
